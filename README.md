@@ -1,4 +1,4 @@
-# Analyzing Right-to-Carry Laws and Violent Crime Rates in the United States using R Markdown
+# Analyzing Right-to-Carry Laws and Violent Crime Rates in the United States using R 
 
 **Introduction**:
 
