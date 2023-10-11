@@ -11,7 +11,7 @@ Donohue, J. J. et al. "Right-to-Carry Laws and Violent Crime" (Journal of Empiri
 Mustard, D. B., & J. Lott. "Crime, Deterrence, and Right-to-Carry Concealed Handguns" (Coase-Sandor Institute for Law & Economics Working Paper, 1996).
 **Key Questions**:
 
-RTC Laws vs. Violence Rates: Assess the correlation between RTC laws and violence rates in the US.
+**RTC Laws vs. Violence Rates**: Assess the correlation between RTC laws and violence rates in the US.
 Multicollinearity Impact: Examine multicollinearity's effect on regression models.
 Law Enforcement Impact: Explore if law enforcement presence affects violent crime rates.
 
